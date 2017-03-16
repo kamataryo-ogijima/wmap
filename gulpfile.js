@@ -19,7 +19,7 @@ const rimraf      = require( 'rimraf' )
 const config = require( './src/defaults.json' )
 
 gulp.task( 'md', () => {
-  gulp.src( 'README.md' )
+  gulp.src( 'home.md' )
     .pipe( marked( {} ) )
     // eslint-disable-next-line quotes
     .pipe( replace( /^/, '<home-contents class="home-contents">' + "\n" + '<div class="wrap">' ) )
