@@ -5,7 +5,7 @@
   "locale": "ja_JP",
   "endpoint": "json",
   "map": {
-    "zoom": 14,
+    "zoom": 17,
     "layers": [
       {
         "name": "Open Street Map",
