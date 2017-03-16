@@ -7,6 +7,7 @@ https://ogijima-library.github.io/wmap/
 
 ```
 $ git clone git@github.com:ogijima-library/wmap.git
+$ cd wmap
 $ npm install
 ```
 
