@@ -20,5 +20,6 @@
         "attribution_url": "http://maps.gsi.go.jp/development/ichiran.html"
       }
     ]
-  }
+  },
+  "defaultLocale": "ja",
 }
