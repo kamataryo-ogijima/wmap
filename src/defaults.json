@@ -9,7 +9,7 @@
     "layers": [
       {
         "name": "Open Street Map",
-        "tile": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "tile": "https://ogijima-library.github.io/map/tiles/{z}/{x}/{y}.png",
         "attribution": "OpenStreetMap Contributers",
         "attribution_url": "http://osm.org/copyright"
       },
